@@ -67,9 +67,7 @@ lang: en-GB # Set the site language
 title: Alistair Fairweather
 logo: "/assets/logo.png" # Site logo, also used in jekyll-seo-tag
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Personal site for Alistair Fairweather
 baseurl: ""
 url: "https://alistairfairweather.com"
 
@@ -90,7 +88,9 @@ navigation_header:
   url: /
 - title: About
   url: /about/
-
+- title: Contact me
+  url: /contact/
+  
 navigation_footer:
 - title: PlainSpeak
   url: http://plainspeak.co.za/

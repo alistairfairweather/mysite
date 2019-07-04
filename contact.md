@@ -4,6 +4,12 @@ title: Contact Alistair
 permalink: /contact/
 ---
 
+<style>
+#cunning {
+visibility: hidden;
+}
+</style>
+
 <form name="contact" method="POST" netlify-honeypot="beep-borp" data-netlify="true">
   <p>
     <label>Your name: <input type="text" name="name" /></label>   
@@ -17,7 +23,7 @@ permalink: /contact/
   <p>
     <label>Message: <textarea name="message"></textarea></label>
   </p>
-  <p class="hidden">
+  <p id="cunning">
     <label>Don’t fill this out if you're an organic life form: <input name="beep-borp" /></label>
   </p>
   <p>

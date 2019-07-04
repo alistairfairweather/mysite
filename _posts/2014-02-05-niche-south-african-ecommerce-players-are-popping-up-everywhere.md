@@ -4,7 +4,7 @@ title: Niche South African eCommerce players are popping up everywhere
 date: 2014-02-05T10:17:08+00:00
 author: Alistair Fairweather
 layout: post
-guid: http://alistairfairweather.com/?p=174827169
+guid: https://alistairfairweather.com/?p=174827169
 permalink: /niche-south-african-ecommerce-players-are-popping-up-everywhere/
 image: /wp-content/uploads/2014/02/Screen-Shot-2014-02-05-at-12.30.36-PM.png
 categories:

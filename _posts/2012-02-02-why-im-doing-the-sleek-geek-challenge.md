@@ -5,7 +5,7 @@ date: 2012-02-02T12:26:00+00:00
 author: Alistair Fairweather
 excerpt: "For the first thirty years of my life I never struggled with weight. I ate what I wanted, exercised a fair amount and everything ticked along merrily. Eventually, though, the creeping neglect got me. Over the last three or four years I've steadily..."
 layout: post
-guid: http://alistairfairweather.com/why-im-doing-the-sleek-geek-challenge
+guid: https://alistairfairweather.com/why-im-doing-the-sleek-geek-challenge
 permalink: /why-im-doing-the-sleek-geek-challenge/
 posterous_post:
   - "97540798"

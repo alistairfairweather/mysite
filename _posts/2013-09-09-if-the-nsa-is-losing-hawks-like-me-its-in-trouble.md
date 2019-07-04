@@ -4,7 +4,7 @@ title: 'If the NSA is losing hawks like me, it&#8217;s in trouble'
 date: 2013-09-09T08:21:29+00:00
 author: Alistair Fairweather
 layout: post
-guid: http://alistairfairweather.com/?p=174827062
+guid: https://alistairfairweather.com/?p=174827062
 permalink: /if-the-nsa-is-losing-hawks-like-me-its-in-trouble/
 image:
   - ""

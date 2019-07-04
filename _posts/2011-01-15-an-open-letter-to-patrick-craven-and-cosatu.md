@@ -5,7 +5,7 @@ date: 2011-01-15T12:08:00+00:00
 author: Alistair Fairweather
 excerpt: Dear Mr Craven We are very different men, from very different generations, with very different views of the world. Nonetheless I respect both your opinion, and your contribution to the liberation struggle. But while I concede many of the points in...
 layout: post
-guid: http://alistairfairweather.com/an-open-letter-to-patrick-craven-and-cosatu
+guid: https://alistairfairweather.com/an-open-letter-to-patrick-craven-and-cosatu
 permalink: /an-open-letter-to-patrick-craven-and-cosatu/
 posterous_post:
   - "39932351"

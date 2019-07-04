@@ -4,7 +4,7 @@ title: 'WhatsApp encryption &#8211; what does it mean for you?'
 date: 2016-04-06T16:55:40+00:00
 author: Alistair Fairweather
 layout: post
-guid: http://alistairfairweather.com/?p=174827458
+guid: https://alistairfairweather.com/?p=174827458
 permalink: /whatsapp-encryption-what-does-it-mean-for-you/
 image: /wp-content/uploads/2016/04/shutterstock_181909382.jpg
 categories:

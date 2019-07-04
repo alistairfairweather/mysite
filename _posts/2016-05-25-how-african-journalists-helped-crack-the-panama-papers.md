@@ -4,7 +4,7 @@ title: How African journalists helped crack the Panama Papers
 date: 2016-05-25T11:40:20+00:00
 author: Alistair Fairweather
 layout: post
-guid: http://alistairfairweather.com/?p=174827512
+guid: https://alistairfairweather.com/?p=174827512
 permalink: /how-african-journalists-helped-crack-the-panama-papers/
 image: /wp-content/uploads/2016/05/160403-overview-01.jpg
 categories:

@@ -4,7 +4,6 @@ title: The certainty trap and the filter bubble
 date: 2017-12-14T12:13:05+00:00
 author: Alistair Fairweather
 layout: post
-guid: http://alistairfairweather.com/?p=174827693
 permalink: /the-certainty-trap-and-the-filter-bubble/
 image: /wp-content/uploads/2017/12/AdobeStock_182869153.png
 categories:

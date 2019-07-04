@@ -5,7 +5,7 @@ date: 2011-01-07T09:49:45+00:00
 author: Alistair Fairweather
 excerpt: So my thumbsuck earnings guesstimate on Facebook turned out to be bang on target. It did make around $500 million in 2010 according to documents released by those Wall Street sharks at Goldman Sachs. What I was completely wrong about was its net m...
 layout: post
-guid: http://alistairfairweather.com/only-100-years-before-you-earn-your-facebook
+guid: https://alistairfairweather.com/only-100-years-before-you-earn-your-facebook
 permalink: /only-100-years-before-you-earn-your-facebook/
 posterous_post:
   - "38861308"

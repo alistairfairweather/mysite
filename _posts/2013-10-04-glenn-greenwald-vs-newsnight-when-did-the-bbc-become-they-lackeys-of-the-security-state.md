@@ -4,7 +4,7 @@ title: 'Glenn Greenwald vs Newsnight &#8211; when did the BBC become the lackeys
 date: 2013-10-04T21:40:47+00:00
 author: Alistair Fairweather
 layout: post
-guid: http://alistairfairweather.com/?p=174827079
+guid: https://alistairfairweather.com/?p=174827079
 permalink: /glenn-greenwald-vs-newsnight-when-did-the-bbc-become-they-lackeys-of-the-security-state/
 image: /wp-content/uploads/2013/10/Glen_Greenwald.png
 seo_follow:
@@ -41,4 +41,4 @@ And if the first clip hasn't convinced you of the bumbling incompetence of Newsn
 
 The most disturbing thing about this whole affair is that it is a product of the BBC, not a right-wing mouthpiece like Sky News or Fox News. What happened to the bastion of balanced and independent broadcasting? How could they allow such an ill informed apologist to attempt a character assassination on a fellow journalist without so much as blinking an eye?
 
-It smacks of lickspittle journalism and government interference. <a href="http://alistairfairweather.com/if-the-nsa-is-losing-hawks-like-me-its-in-trouble/">As I've said before</a>, I'm generally a national security hawk, but this kind of willful blindness in the face of overwhelming evidence is appalling. And if we can't rely on the BBC to have some balance and common sense, Britain's democracy is in more trouble than I had ever feared.
+It smacks of lickspittle journalism and government interference. <a href="https://alistairfairweather.com/if-the-nsa-is-losing-hawks-like-me-its-in-trouble/">As I've said before</a>, I'm generally a national security hawk, but this kind of willful blindness in the face of overwhelming evidence is appalling. And if we can't rely on the BBC to have some balance and common sense, Britain's democracy is in more trouble than I had ever feared.

@@ -4,7 +4,7 @@ title: Canadian police have the master key to millions of Blackberrys around the
 date: 2016-04-15T17:08:10+00:00
 author: Alistair Fairweather
 layout: post
-guid: http://alistairfairweather.com/?p=174827477
+guid: https://alistairfairweather.com/?p=174827477
 permalink: /the-canadian-police-has-the-master-key-to-millions-of-blackberrys-around-the-world/
 image: /wp-content/uploads/2016/04/IMG_19501.jpg
 categories:
@@ -18,7 +18,7 @@ Let's back up a bit here to consider the seriousness of this news. A police serv
 
 The RCMP should, at the very most, have compelled Blackberry to decrypt specific messages. They should never have asked for, and certainly never received the global decryption key. This is like the difference between transferring money to your teenager and giving them your credit card. Once the key is out there, all control is lost.
 
-This is exactly why platforms like WhatsApp and Telegram have implemented <a href="http://alistairfairweather.com/whatsapp-encryption-what-does-it-mean-for-you/" target="_blank">end-to-end encryption</a> - because it removes the temptation for government agencies to overstep their mandates and demand unfettered access to millions of people's private conversations.
+This is exactly why platforms like WhatsApp and Telegram have implemented <a href="https://alistairfairweather.com/whatsapp-encryption-what-does-it-mean-for-you/" target="_blank">end-to-end encryption</a> - because it removes the temptation for government agencies to overstep their mandates and demand unfettered access to millions of people's private conversations.
 
 It's important to note that this doesn't affect all of Blackberry's customers - only those using the standard "consumer" servers. Those using corporate or (ironically) government Blackberry servers are safe because those systems all have their own encryption keys. But that doesn't detract much from the seriousness of this breach of trust.
 

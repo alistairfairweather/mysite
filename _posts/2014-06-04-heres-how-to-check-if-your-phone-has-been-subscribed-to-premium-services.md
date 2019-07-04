@@ -4,7 +4,7 @@ title: 'Here&#8217;s how to check if your phone has been subscribed to &#8220;pr
 date: 2014-06-04T10:51:54+00:00
 author: Alistair Fairweather
 layout: post
-guid: http://alistairfairweather.com/?p=174827216
+guid: https://alistairfairweather.com/?p=174827216
 permalink: /heres-how-to-check-if-your-phone-has-been-subscribed-to-premium-services/
 image:
   - ""

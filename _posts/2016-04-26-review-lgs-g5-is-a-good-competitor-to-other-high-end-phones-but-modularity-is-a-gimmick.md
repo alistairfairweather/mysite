@@ -4,7 +4,7 @@ title: 'Review: LG&#8217;s G5 is a good competitor to other high-end phones but 
 date: 2016-04-26T15:41:57+00:00
 author: Alistair Fairweather
 layout: post
-guid: http://alistairfairweather.com/?p=174827490
+guid: https://alistairfairweather.com/?p=174827490
 permalink: /review-lgs-g5-is-a-good-competitor-to-other-high-end-phones-but-modularity-is-a-gimmick/
 image: /wp-content/uploads/2016/04/LG-G5.jpg
 categories:

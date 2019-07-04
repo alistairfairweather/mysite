@@ -4,7 +4,7 @@ title: 'The economics of League of Legends&#8217; new feature'
 date: 2016-04-08T15:05:47+00:00
 author: Alistair Fairweather
 layout: post
-guid: http://alistairfairweather.com/?p=174827463
+guid: https://alistairfairweather.com/?p=174827463
 permalink: /the-economics-of-league-of-legends-new-feature/
 image: /wp-content/uploads/2016/04/league-of-legends.jpg
 categories:

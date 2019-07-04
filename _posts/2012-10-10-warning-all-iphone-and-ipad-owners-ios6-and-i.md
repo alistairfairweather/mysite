@@ -5,7 +5,7 @@ date: 2012-10-10T14:33:00+00:00
 author: Alistair Fairweather
 excerpt: "If you've upgraded any of your Apple devices to iOS 6 you may find your data usage is suddenly through the roof. Yesterday I discovered that my Vodacom bill for September is suddenly double what it normally is. When I dug a bit deeper I discovered..."
 layout: post
-guid: http://alistairfairweather.com/warning-all-iphone-and-ipad-owners-ios6-and-i
+guid: https://alistairfairweather.com/warning-all-iphone-and-ipad-owners-ios6-and-i
 permalink: /warning-all-iphone-and-ipad-owners-ios6-and-i/
 posterous_post:
   - "164782074"

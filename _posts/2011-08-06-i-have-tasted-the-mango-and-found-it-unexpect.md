@@ -5,10 +5,8 @@ date: 2011-08-06T11:54:56+00:00
 author: Alistair Fairweather
 excerpt: "I'm not the biggest fan of Microsoft - I've made that pretty clear over the years. It has spent a decade in various degrees of stagnation, largely thanks to keeping Uncle Fester's evil twin as its CEO. It has made a string of expensive and stupid ..."
 layout: post
-guid: http://alistairfairweather.com/i-have-tasted-the-mango-and-found-it-unexpect
+guid: https://alistairfairweather.com/i-have-tasted-the-mango-and-found-it-unexpect
 permalink: /i-have-tasted-the-mango-and-found-it-unexpect/
-posterous_post:
-  - "64191371"
 categories:
   - General ponderings
 ---

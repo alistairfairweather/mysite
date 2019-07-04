@@ -5,7 +5,7 @@ date: 2011-02-20T13:56:00+00:00
 author: Alistair Fairweather
 excerpt: Ballet has always been a loaded subject, suspended uncomfortably between art and masochism, between the divine and the pathological. But Black Swan transcends ballet, playing more like the dark existential crisis of Dr Jekyl and Hyde than the fair...
 layout: post
-guid: http://alistairfairweather.com/black-swan-requiem-for-a-dancer
+guid: https://alistairfairweather.com/black-swan-requiem-for-a-dancer
 permalink: /black-swan-requiem-for-a-dancer/
 posterous_post:
   - "43624717"

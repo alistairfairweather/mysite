@@ -4,7 +4,7 @@ title: Kak haircuts make me happy
 date: 2015-08-01T14:18:35+00:00
 author: Alistair Fairweather
 layout: post
-guid: http://alistairfairweather.com/?p=174827346
+guid: https://alistairfairweather.com/?p=174827346
 permalink: /kak-haircuts-make-me-happy/
 image: /wp-content/uploads/2015/08/Revenge-Of-The-Nerds-II-DI.jpg
 categories:
@@ -12,7 +12,7 @@ categories:
 ---
 Most of my pension money is managed by Allan Gray. That's a conscious choice, not something I inherited from a particular employer. And when I get one one of the quarterly email newsletters from the folks at Allan Gray even if I only glance at it, I feel comforted. Why? Have a look at the screenshot below.
 
-[caption id="attachment_174827348" align="alignnone" width="400"]<img class="size-full wp-image-174827348" src="http://alistairfairweather.com/wp-content/uploads/2015/08/Screenshot-2015-08-01-13.43.54.png" alt="Look at those haircuts! Nerds for days!" width="400" height="385" /> Look at those haircuts! Nerds for days![/caption]
+[caption id="attachment_174827348" align="alignnone" width="400"]<img class="size-full wp-image-174827348" src="/assets/uploads/2015/08/Screenshot-2015-08-01-13.43.54.png" alt="Look at those haircuts! Nerds for days!" width="400" height="385" /> Look at those haircuts! Nerds for days![/caption]
 
 Ok, Wanita is the exception, but the rest of these okes - dork central. Dudes with haircuts that terrible are not out to impress anyone. If the person managing my pension has a faux-hawk or more gel in his hair than sense in his head, I'm going to be nervous. I want someone focussed on managing my money, not impressing the other buggers at the Baron.
 

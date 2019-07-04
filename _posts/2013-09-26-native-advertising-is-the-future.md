@@ -4,7 +4,7 @@ title: Native Advertising is the future
 date: 2013-09-26T14:03:05+00:00
 author: Alistair Fairweather
 layout: post
-guid: http://alistairfairweather.com/?p=174827071
+guid: https://alistairfairweather.com/?p=174827071
 permalink: /native-advertising-is-the-future/
 image:
   - ""

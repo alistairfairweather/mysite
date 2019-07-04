@@ -5,7 +5,7 @@ date: 2011-09-14T09:07:00+00:00
 author: Alistair Fairweather
 excerpt: "I'm not exactly a natural maths whizz, a fact made abundantly clear earlier this year when I wrote that R1 invested in Apple in 2000 would now be worth around R1280. The correct figure is, in fact, R13.80. Since then I've made a habit of triple ch..."
 layout: post
-guid: http://alistairfairweather.com/how-i-calculated-the-internets-electricity-bi
+guid: https://alistairfairweather.com/how-i-calculated-the-internets-electricity-bi
 permalink: /how-i-calculated-the-internets-electricity-bi/
 posterous_post:
   - "70182699"

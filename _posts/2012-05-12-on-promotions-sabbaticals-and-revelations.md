@@ -5,7 +5,7 @@ date: 2012-05-12T15:38:44+00:00
 author: Alistair Fairweather
 excerpt: "It's been quite a fortnight. I got promoted, helped launch the revamped M&G website (after a year of work) and left for a three month sabbatical to the USA which Amanda and I have been planning for nearly six years. Any one of those events would t..."
 layout: post
-guid: http://alistairfairweather.com/on-promotions-sabbaticals-and-revelations
+guid: https://alistairfairweather.com/on-promotions-sabbaticals-and-revelations
 permalink: /on-promotions-sabbaticals-and-revelations/
 posterous_post:
   - "130286521"

@@ -5,7 +5,7 @@ date: 2010-05-16T14:57:00+00:00
 author: Alistair Fairweather
 excerpt: When he said "Dining is and always was a great artistic opportunity" Frank Lloyd Wright was talking about more than just eating, he was talking about dining as a cultural experience. And while he couldn’t have had an Indian restaurant at the tip o...
 layout: post
-guid: http://alistairfairweather.com/a-passage-to-india-1
+guid: https://alistairfairweather.com/a-passage-to-india-1
 permalink: /a-passage-to-india/
 posterous_post:
   - "18762707"

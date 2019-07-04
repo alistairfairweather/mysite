@@ -4,7 +4,7 @@ title: Bullard and Gordin epitomise rape culture
 date: 2014-02-08T09:17:18+00:00
 author: Alistair Fairweather
 layout: post
-guid: http://alistairfairweather.com/?p=174827183
+guid: https://alistairfairweather.com/?p=174827183
 permalink: /bullard-and-gordin-epitomise-rape-culture/
 image:
   - ""

@@ -27,10 +27,9 @@ plugins:
 
 # 3. Gem settings
 paginate: 2 # jekyll-paginate > items per page
-paginate_path: blog/page:num # jekyll-paginate > blog page
 author: Alistair Fairweather # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
-  name: David Darnes # jekyll-seo-tag > real name
+  name: Alistair Fairweather # jekyll-seo-tag > real name
 
 # markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
 # commonmark:
@@ -60,7 +59,6 @@ defaults:
       path: ""
     values:
       image: "/assets/default-social-image.png" # Default image for sharing
-
 
 
 # 7.Site settings
@@ -94,8 +92,8 @@ navigation_header:
   url: /about/
 
 navigation_footer:
-- title: Footer
-  url: http://google.com
+- title: PlainSpeak
+  url: http://plainspeak.co.za/
 
 
 # Build settings
@@ -104,14 +102,3 @@ theme: alembic-jekyll-theme
 plugins:
   - jekyll-feed
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/

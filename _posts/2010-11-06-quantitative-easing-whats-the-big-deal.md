@@ -6,7 +6,7 @@ author: Alistair Fairweather
 excerpt: |
   Last week the US Federal Reserve, the world's most powerful and influential central bank, announced a second huge tranche of "quantitative easing" - now nicknamed "QE2". That in itself wasn't news, but the amount - $600 billion - has come as a big...
 layout: post
-guid: http://alistairfairweather.com/quantitative-easing-whats-the-big-deal
+guid: https://alistairfairweather.com/quantitative-easing-whats-the-big-deal
 permalink: /quantitative-easing-whats-the-big-deal/
 posterous_post:
   - "32639510"

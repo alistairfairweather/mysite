@@ -5,7 +5,7 @@ date: 2011-08-14T11:59:00+00:00
 author: Alistair Fairweather
 excerpt: 'Reality TV represents a low point in the history of culture for me. Take Survivor for instance: a show that purports to be about humans triumphing against the elements, but is really an excuse to watch people grub around in the dirt and debase the...'
 layout: post
-guid: http://alistairfairweather.com/7-reasons-i-love-masterchef-australia-even-th
+guid: https://alistairfairweather.com/7-reasons-i-love-masterchef-australia-even-th
 permalink: /7-reasons-i-love-masterchef-australia-even-th/
 posterous_post:
   - "65549635"

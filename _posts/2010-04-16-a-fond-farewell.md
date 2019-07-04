@@ -5,7 +5,7 @@ date: 2010-04-16T07:32:33+00:00
 author: Alistair Fairweather
 excerpt: "I wrote my last column for News24 this week. After nearly two years of calling it my home I'm sad to be leaving. I've written around 70 columns in that time, which equates to around 35,000 words, or one (very discontinuous) novella on technology. ..."
 layout: post
-guid: http://alistairfairweather.com/a-fond-farewell
+guid: https://alistairfairweather.com/a-fond-farewell
 permalink: /a-fond-farewell/
 posterous_post:
   - "16451316"

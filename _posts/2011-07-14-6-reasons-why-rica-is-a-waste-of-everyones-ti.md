@@ -5,7 +5,7 @@ date: 2011-07-14T11:25:06+00:00
 author: Alistair Fairweather
 excerpt: The deadline has passed, the nagging is over, and (most) people are now registered with RICA. Most of us still aren’t sure why we had to register at all. The truth is RICA is a pointless exercise, even by the extremely low standards of other red t...
 layout: post
-guid: http://alistairfairweather.com/6-reasons-why-rica-is-a-waste-of-everyones-ti
+guid: https://alistairfairweather.com/6-reasons-why-rica-is-a-waste-of-everyones-ti
 permalink: /6-reasons-why-rica-is-a-waste-of-everyones-ti/
 posterous_post:
   - "60942282"

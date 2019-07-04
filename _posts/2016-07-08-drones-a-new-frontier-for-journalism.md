@@ -4,7 +4,7 @@ title: 'Drones: a new frontier for journalism'
 date: 2016-07-08T09:05:50+00:00
 author: Alistair Fairweather
 layout: post
-guid: http://alistairfairweather.com/?p=174827546
+guid: https://alistairfairweather.com/?p=174827546
 permalink: /drones-a-new-frontier-for-journalism/
 image: /wp-content/uploads/2016/07/Drone_with_GoPro_digital_camera_mounted_underneath_-_22_April_2013.jpg
 categories:

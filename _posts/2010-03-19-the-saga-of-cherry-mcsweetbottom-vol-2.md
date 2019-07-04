@@ -6,7 +6,7 @@ author: Alistair Fairweather
 excerpt: |
   Last week I wrote about an appalling piece of sensationalist journalism by England's Daily "Hate" Mail. They claimed that they had created a fake profile of a 14-year-old girl and had been approached "within 90 seconds" by a middle aged man intent...
 layout: post
-guid: http://alistairfairweather.com/the-saga-of-cherry-mcsweetbottom-vol-2
+guid: https://alistairfairweather.com/the-saga-of-cherry-mcsweetbottom-vol-2
 permalink: /the-saga-of-cherry-mcsweetbottom-vol-2/
 posterous_post:
   - "13915697"

@@ -6,7 +6,7 @@ author: Alistair Fairweather
 excerpt: |
   From: Christo Davel Date: 31 January 2013 21:42:16 SAST Hi Alistair I'm writing to tell you that 22seven has been bought by Old Mutual. The deal will be announced to the public today. I'm guessing that your reaction is one of either "awesome", "wh...
 layout: post
-guid: http://alistairfairweather.com/22seven-acquired-by-old-mutual-65354
+guid: https://alistairfairweather.com/22seven-acquired-by-old-mutual-65354
 permalink: /22seven-acquired-by-old-mutual-65354/
 posterous_post:
   - "174827033"

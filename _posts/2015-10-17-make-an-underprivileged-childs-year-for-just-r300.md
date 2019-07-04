@@ -4,7 +4,7 @@ title: 'Make an underprivileged child&#8217;s year for just R300'
 date: 2015-10-17T12:49:39+00:00
 author: Alistair Fairweather
 layout: post
-guid: http://alistairfairweather.com/?p=174827377
+guid: https://alistairfairweather.com/?p=174827377
 permalink: /make-an-underprivileged-childs-year-for-just-r300/
 image: /wp-content/uploads/2015/10/IMG_19971.jpg
 categories:
@@ -18,4 +18,4 @@ The target this year is 100,000 shoeboxes and they are 74% of the way there. The
 
 I'm not a bleeding heart lefty, and I'm also not starry eyed. I'm making two kids lives ever so slightly better, not solving the world's problems. But kindness is not a limited resource. This isn't about shame - this is about joy. Do it because you mean it, not because you should.
 
-<img class="alignleft size-medium wp-image-174827382" src="http://alistairfairweather.com/wp-content/uploads/2015/10/santa-shoebox-logo-3-300x212.jpg" alt="Santa Shoebox" width="300" height="212" />
+<img class="alignleft size-medium wp-image-174827382" src="/assets/uploads/2015/10/santa-shoebox-logo-3-300x212.jpg" alt="Santa Shoebox" width="300" height="212" />

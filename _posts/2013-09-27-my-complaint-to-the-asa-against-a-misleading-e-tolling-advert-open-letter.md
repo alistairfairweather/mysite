@@ -4,7 +4,7 @@ title: My complaint to the ASA against a misleading e-tolling advert (open lette
 date: 2013-09-27T05:45:27+00:00
 author: Alistair Fairweather
 layout: post
-guid: http://alistairfairweather.com/?p=174827074
+guid: https://alistairfairweather.com/?p=174827074
 permalink: /my-complaint-to-the-asa-against-a-misleading-e-tolling-advert-open-letter/
 image:
   - ""

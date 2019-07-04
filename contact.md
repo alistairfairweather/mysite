@@ -12,13 +12,13 @@ visibility: hidden;
 
 <form name="contact" method="POST" netlify-honeypot="beep-borp" data-netlify="true">
   <p>
-    <label>Your name: <input type="text" name="name" /></label>   
+    <label>Your name: <input type="text" name="name" required /></label>   
   </p>
   <p>
-    <label>Your email address: <input type="email" name="email" /></label>
+    <label>Your email address: <input type="email" name="email" required /></label>
   </p>
   <p>
-    <label>Your phone number: <input type="phone" name="phone" /></label>
+    <label>Your phone number: <input type="number" name="phone" /></label>
   </p>
   <p>
     <label>Message: <textarea name="message"></textarea></label>

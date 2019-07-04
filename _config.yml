@@ -70,6 +70,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Personal site for Alistair Fairweather
 baseurl: ""
 url: "https://alistairfairweather.com"
+google_analytics: 'UA-13192428-2'
 
 # 8. Site favicons & manifest icons
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'

@@ -3,7 +3,7 @@ layout: page
 title: Hi, I'm Alistair
 ---
 
-I write stuff about technology. I'm also the founder of PlainSpeak, a consultancy focusing on the intersection between media, technology and business.
+I write stuff about technology. I'm also the founder of [PlainSpeak](https://www.plainspeak.co.za/), a consultancy focusing on the intersection between media, technology and business.
 
 
 <ul>

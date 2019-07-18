@@ -10,4 +10,4 @@ In 2010 he joined the Mail & Guardian as their Chief Technology Officer. While t
 
 In 2014 he left publishing to join Publicis Machine, an integrated advertising agency, as their Chief Technology Officer where he oversaw the launch of digital properties for large multinational brands including Sanlam and PSG.
 
-In 2016 he founded PlainSpeak, a consultancy focused on helping businesses and people to get the most out of technology.
+In 2016 he founded [PlainSpeak](https://www.plainspeak.co.za/), a consultancy focused on helping businesses and people to get the most out of technology.

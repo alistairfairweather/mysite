@@ -1,6 +1,6 @@
 ---
 title: Why cancel culture will destroy itself
-date: 2020-01-05T07:30:05+00:00
+date: 2020-01-05T11:30:05+00:00
 author: Alistair Fairweather
 layout: post
 permalink: /2020-01-05-why-cancel-culture-will-destroy-itself

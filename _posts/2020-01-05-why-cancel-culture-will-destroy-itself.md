@@ -12,7 +12,7 @@ There's a powerful force sweeping through societies around the world, driven by 
 
 The reason this works is that the people paying for TV shows, book tours and campus speaking gigs are sensitive to any kind of scandal. Scandals mean boycotts and PR nightmares. They mean concerned calls from shareholders and embarrassing protests at the premiere. They are bad for the bottom line, and the best way to get yourself fired or your funding cut.
 
-An instructive example of cancel culture is the firing of director James Gunn by Disney in July 2018. Gunn was a rising star art Disney. His film adaptation of “Guardians of the Galaxy” was a surprise smash hit and he was working on the sequel. His crime? A series of distasteful jokes posted on Twitter. The jokes aren't very good, and their references to paedophillia don't make them any funnier. But should some foolish tweets by a (then struggling) comic result in the end of his career? The online mob certainly thought so. 
+An instructive example of cancel culture is the firing of director James Gunn by Disney in July 2018. Gunn was a rising star at Disney. His film adaptation of “Guardians of the Galaxy” was a surprise smash hit and he was working on the sequel. His crime? A series of distasteful jokes posted on Twitter. The jokes aren't very good, and their references to paedophillia don't make them any funnier. But should some foolish tweets by a (then struggling) comic result in the end of his career? The online mob certainly thought so. 
 
 I use the word "mob" intentionally. Cancel culture operates exactly like a vengeful mob of villagers, complete with pitchforks, who burn the old lady down the road for having too many black cats. 
 
@@ -20,7 +20,7 @@ The only crime necessary is to have said or written something deemed offensive. 
 
 In fact you don't even have to say the offensive thing yourself - merely defending someone else, or calling for reasonable debate is guilt by association. The similarities to Mao's Cultural Revolution are not accidental.
 
-A more recent example is the corus calling for [JK Rowling to be cancelled](https://www.nbcnews.com/feature/nbc-out/j-k-rowling-faces-backlash-after-tweeting-support-transphobic-researcher-n1104971) because she expressed support for an academic who is seen as problematic by some trans rights activists. Whether or not you agree with the conclusions of either Rowling or the activists is besides the point. Rather than having a nuanced debate, the mob immediately called for her head. However, rather than buckling to the pressure, Rowling has refused to apologise. It helps to be a billionaire, it seems. 
+A more recent example is the chorus calling for [JK Rowling to be cancelled](https://www.nbcnews.com/feature/nbc-out/j-k-rowling-faces-backlash-after-tweeting-support-transphobic-researcher-n1104971) because she expressed support for an academic who is seen as problematic by some trans rights activists. Whether or not you agree with the conclusions of either Rowling or the activists is besides the point. Rather than having a nuanced debate, the mob immediately called for her head. However, rather than buckling to the pressure, Rowling has refused to apologise. It helps to be a billionaire, it seems. 
 
 Calling this social justice is laughable. As with any mob, cancel culture is arbitrary, capricious and completely unaccountable. A few people take a disliking to a prominent person and dig up something odious from their past, or take a recent statement out of context. The rest of the mob, whooping with outrage and barely concealed delight, picks up the scent and deluges that person's employers and patrons with tens of thousands of tweets. In panic, the person is summarily dismissed.
 
@@ -52,7 +52,7 @@ What's worse, anyone who is cancelled (and anyone who agrees with that person) h
 
 But even if cancel culture is ineffective, the sheer enjoyment it produces should sustain it, right? Nope. Like the Cultural Revolution and the French Revolution, cancel culture will eventually consume itself. When only the pure of thought are left, they begin to invent new tests of purity. Eventually we all turn into Robespierre. 
 
-If you're read this far, you probably already agree with me, the proponents of cancel culture having left to tweet their disgust around paragraph six. So what can we do about this destructive nonsense? First, and most importantly, don't join in. When someone you dislike gets attacked, take a breath. Disagreement doesn't need to result in defenestration. 
+If you've read this far, you probably already agree with me, the proponents of cancel culture having left to tweet their disgust around paragraph six. So what can we do about this destructive nonsense? First, and most importantly, don't join in. When someone you dislike gets attacked, take a breath. Disagreement doesn't need to result in defenestration. 
 
 Second, research the details of the cancel-worthy event. What was the context? Could the person have meant something else, and just expressed it clumsily? Is this part of a pattern of statements, or something isolated. Everyone is allowed to have bad days, and bad sentences. 
 

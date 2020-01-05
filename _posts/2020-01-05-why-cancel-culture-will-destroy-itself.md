@@ -26,7 +26,7 @@ Calling this social justice is laughable. As with any mob, cancel culture is arb
 
 These successes drive the mob to find further targets. They are doing the *right thing*, after all. They are rooting out evildoers and heretics! It's their duty! And the great thing about a mob is that no one can tell who struck the killing blow. But *boy* was it thrilling to throw those stones. Power, it turns out, is a lot of fun.
 
-The temptation to misuse this power is enormous. I've seen prominent young (South African) intellectuals on Facebook calling for the cancelling of Pete Buttigieg because the worked for McKinsey which proves, apparently, that he *actually* worked for the CIA where (and I quote) "he ran spreadsheets for the CIA, the result of which was a Joint Special Operations Command death squad helicoptering into a remote village in Kandahar Province to shoot every woman and child they can find." Who knew spreadsheets could be so sinister? 
+The temptation to misuse this power is enormous. I've seen prominent young (South African) intellectuals on Facebook calling for the cancelling of Pete Buttigieg because he worked for McKinsey which proves, apparently, that he *actually* worked for the CIA where (and I quote) "he ran spreadsheets for the CIA, the result of which was a Joint Special Operations Command death squad helicoptering into a remote village in Kandahar Province to shoot every woman and child they can find." Who knew spreadsheets could be so sinister? 
 
 The fact that South Africans will have zero influence on whether Mayor Pete becomes the Democratic candidate is beside the point. Cancel culture is a hammer and when you have one to hand you start looking for nails.
 

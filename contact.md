@@ -18,9 +18,6 @@ visibility: hidden;
     <label>Your email address: <input type="email" name="email" required /></label>
   </p>
   <p>
-    <label>Your phone number: <input type="number" name="phone" /></label>
-  </p>
-  <p>
     <label>Message: <textarea name="message"></textarea></label>
   </p>
   <p id="cunning">

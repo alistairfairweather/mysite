@@ -4,8 +4,6 @@ date: 2020-09-05T13:30:05+00:00
 author: Alistair Fairweather
 layout: post
 permalink: /2020-09-26-why-we-cant-have-civil-conversations-anymore
-categories:
-  - Society
 ---
 
 I'm angry. It's the whole reason I'm writing this, and I'm hoping that the writing process helps me to let go of that anger and to find something redeeming in the source of that anger.

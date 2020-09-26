@@ -1,6 +1,6 @@
 ---
 title: Why we can't have civil conversations anymore
-date: 2020-09-25T13:30:05+00:00
+date: 2020-09-26T13:30:05+00:00
 author: Alistair Fairweather
 layout: post
 permalink: /2020-09-26-why-we-cant-have-civil-conversations-anymore

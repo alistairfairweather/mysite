@@ -142,7 +142,7 @@ A great example of this is Cancel Culture. Let me be clear: I think Cancel Cultu
 
 This is particularly ironic since they are such enthusiastic participants in Cancel Culture. When McDonalds branded their website with Black Lives Matter, BBZ was quick to cancel them from his own diet. When Trump declared war against Goodyear for banning MAGA hats, BBZ was delighted.
 
-It's not Cancel Culture if *we're* are doing it, you see. And even if it is, *they* are the ones who started it, so we're just giving *them* a taste of their own medicine.
+It's not Cancel Culture if *we're* doing it, you see. And even if it is, *they* are the ones who started it, so we're just giving *them* a taste of their own medicine.
 
 When you combine **double standards** with **gas-lighting** you get a particularly infuriating mixture. This is, after all, a **zero-sum game**. It isn't about being "correct" - it's about winning at all costs.
 

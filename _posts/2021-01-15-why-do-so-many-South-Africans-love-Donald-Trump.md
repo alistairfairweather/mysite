@@ -80,7 +80,7 @@ Since the start of this century, trust in institutions and in government has bee
 
 For communities whose livelihoods were exported to China or automated away, this trust has been almost completely hollowed out. From Big Pharma to the banks to the federal government and the WTO, institutions have either exploited these people or failed to consider or protect them. 
 
-And while their upward mobility was being systematically crippled, the very people doing the damage were sneering at the "feckless bumpkins" and their inability to keep up with the times. Of course conservatives are not blameless victims here. Plenty of their own policies - particularly around tax - have only made things worse. But their shared narrative is one of abandonment and scorn, and the grains of truth make this story both compelling and enduring. 
+And while their upward mobility was being systematically crippled, the very people doing the damage were sneering at the "bumpkins" and their inability to keep up with the times. Of course conservatives are not blameless victims here. Plenty of their own policies - particularly around tax - have only made things worse. But their shared narrative is one of abandonment and scorn, and the grains of truth make this story both compelling and enduring. 
 
 Trump, ever the connoisseur of grudges, has harnessed this deeply felt rage. "How *dare* they spit on us and tell us that they're better? We are good, honest, hard working people. We believe in God, and in the nuclear family. We will not apologise for being who we are, and for protecting our heritage and our culture!"
 

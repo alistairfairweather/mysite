@@ -12,7 +12,7 @@ If, like me, you live mostly inside the comfortable, slightly-left-of-centre bub
 
 As you might guess, Trump's support comes mainly from conservative white people, particularly those who are devoutly religious, but there are also many black and brown South Africans who venerate the Cheeto Benito. 
 
-Spend some time on Facebook or Twitter and you'll quickly find thousands of pro-Trump comments from South Africans of all ages and shades. Comment sections under Zapiro's anti-Trump cartoons are a good place to start. The cognitive dissonance of people who venerate Zapiro's skewering of Jacob Zuma grappling with his antipathy for Donnie is a joy to behold.
+Spend some time on Facebook or Twitter and you'll quickly find thousands of pro-Trump comments from South Africans of all ages and shades. Comment sections under [Zapiro's anti-Trump cartoons](https://www.facebook.com/Zapiro.Editorial.Cartoonist/posts/10158612977883580) are a good place to start. The cognitive dissonance of people who venerate Zapiro's skewering of Jacob Zuma grappling with his antipathy for Donnie is a joy to behold.
 
 I've been watching the rise of this phenomenon for the entire Trump administration and I have been fascinated and horrified by it in equal parts. My personal animus against him is strong - I honestly believe he is a truly evil person, in the most banal sense of that word. A petty, vindictive little narcissist; a spoiled child with the nuclear codes, and deeply corrupt conman. But I've forced myself to look past this, as best I can, to see what appeals to my countrymen and women. 
 
@@ -26,7 +26,9 @@ Those motivators are:
 - An acute disdain for "elites" and experts, including the media, academia and globalist institutions
 - Strong hereditary and cultural similarities
 
-I'm going to unpack each of these in turn. Given that these are enormously complex issues, my interpretations are best guesses based on my own observations. And I'm largely going to stick to analysing people with whom I share a heritage (i.e. white Afrikaans people). I'm quite sure a lot of these motivators apply to people of other races and backgrounds, but I simply don't know enough about them to do more than hand waving.
+I'm going to unpack each of these in turn. Given that these are enormously complex issues, my interpretations are best guesses based on my own observations. And I'm largely going to stick to analysing people with whom I share a heritage (i.e. white Afrikaans people). 
+
+I'm quite sure a lot of these motivators apply to people of other races and backgrounds, but I simply don't know enough about them to do more than hand waving.
 
 And of course these motivators all interact with and influence each other. My divisions are largely artificial - the movement they describe is much more amorphous and tightly coupled.
 

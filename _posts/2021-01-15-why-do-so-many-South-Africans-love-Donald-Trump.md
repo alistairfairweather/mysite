@@ -124,7 +124,7 @@ What about the non-Trump fans who follow these guys? Anyone who can endure entir
 
 I've come to accept that I'm not going to be able to convince any local Trump fans to change their minds about the Mango Mussolini, even after he has been turfed out of The White House. Arguing rationally about what amount to religious beliefs is not going to have any effect. If you see someone as the defender of your entire way of life, some sneering crypto-communist on Twitter or Facebook is not going to dissuade you from that belief. 
 
-I've also tried to develop some compassion for their position - as much as I may disagree with it to the core of my being. As a whining white person, there are few things I detest more than other whining white people. But at least some of their suffering and dislocation is real and valid. And there's no way we're ever going to bridge the divide if our opening proposal amounts to "If you'll just stop being an ignorant bigot for a minute then you'll see how much better my ideas are."
+I've also tried to develop some compassion for their position - as much as I may disagree with it to the core of my being. As a whining white person, there are few things I detest more than other whining white people. But their experience of suffering and dislocation is real and valid. And there's no way we're ever going to bridge the divide if our opening proposal amounts to "If you'll just stop being an ignorant bigot for a minute then you'll see how much better my ideas are."
 
 If you have Trump fans in your life, try to understand that this is a deeply emotional, irrational and elemental attachment. Trying to argue them out of it is like trying to argue someone into falling in love with you - you're pulling the wrong levers. 
 

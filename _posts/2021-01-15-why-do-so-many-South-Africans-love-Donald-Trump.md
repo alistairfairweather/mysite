@@ -72,11 +72,11 @@ Compared to our own political landscape - dominated almost entirely by the engor
 
 And, unlike in South Africa, America has an entire ecosystem of media companies dedicated to pleasing conservative viewers. Fox News, Rush Limbaugh, Breitbart - these are some of the most brilliant and successful propaganda outfits in the world. Compared to the moderately progressive milquetoast of our local press, Fox News is like crack cocaine for conservative news consumers. 
 
-Given that this entire edifice has been focussed almost exclusively at defending and venerating Trump for the past four years, it's really not surprising that conservative South Africans have absorbed and integrated that message. (You might also argue, quite persuasively, that the opposite is true for progressive South Africans - their natural antipathy for Trump has been supercharged by the "liberal" American media.)
+Given that this entire edifice has been focussed almost exclusively on defending and venerating Trump for the past four years, it's really not surprising that conservative South Africans have absorbed and integrated that message. (You might also argue, quite persuasively, that the opposite is true for progressive South Africans - their natural antipathy for Trump has been supercharged by the "liberal" American media.)
 
 ## Disdain for the "elites"
 
-Since the start of this century, trust in institutions and in government has been in drastic and consistent decline. The financial crisis and Great Recession were significant contributors to this - particularly when feckless government largely failed to hold them responsible. 
+Since the start of this century, trust in institutions and in government has been in drastic and consistent decline. The financial crisis and Great Recession were significant contributors to this - particularly when feckless governments largely failed to punish those responsible. 
 
 For communities whose livelihoods were exported to China or automated away, this trust has been almost completely hollowed out. From Big Pharma to the banks to the federal government and the WTO, institutions have either exploited these people or failed to consider or protect them. 
 

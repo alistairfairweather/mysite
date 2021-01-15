@@ -44,9 +44,11 @@ If you substitute automation and labour market closure for **Black Economic Empo
 
 You might argue that their standard of living has actually been improved by globalisation, and that they are the victims of their own stubbornness and conservatism. You might argue that these people are really more upset about black and brown people being elevated, and that their own status has not actually changed much. You might observe that, after generations of being treated as superior, being treated equally feels unfair. 
 
-But those arguments don't make these shared grievances any less pointed. The people affected feel deeply wrong - they feel that the social contract has been broken. They worked hard, but they did not get ahead. They are not better off than their parents.
+But those arguments don't make these shared grievances any less pointed. The people affected feel deeply wronged - they feel that the social contract has been broken. They worked hard, but they did not get ahead. They are not better off than their parents.
 
-Trump, for all his flaws, has a genius for understanding and identifying with these grievances. Although he grew up a rich kid in New York, he was from the down-at-heel borough of Queens. What he really wanted was to be one of the cool kids in Manhattan, but they sneered at and snubbed him. Like the men and women of the rust belt, he was made to feel like a bumpkin - a crass rube. He has never forgotten or forgiven that rejection, and that sense of injustice binds him to his followers more deeply than any party political platform or slogan. 
+Trump, for all his flaws, has a genius for understanding and identifying with these grievances. Although he grew up a rich kid in New York, he was from the down-at-heel borough of Queens. What he really wanted was to be one of the cool kids in Manhattan, but they sneered at and snubbed him. 
+
+Like the men and women of the rust belt, Trump was made to feel like a bumpkin - a crass rube. He has never forgotten or forgiven that rejection, and that sense of injustice binds him to his followers more deeply than any party political platform or slogan. 
 
 ## A deep longing for purpose and belonging
 

@@ -118,17 +118,17 @@ That estimate is less of a thumb suck than it sounds. I looked at all of the mos
 
 The web is full of handy tools that let you roughly deduplicate followers or audience members. After running a few of those against the Twitter, YouTube and other accounts of these brocasters, I came to the conclusion that 100,000 Trump fans was an extremely conservative estimate. 
 
-What about the non-Trump fans who follow these guys? Anyone who can endure entire hour long episodes dedicated to lionising Trump, with hosts sporting red MAGA hats and grinning smugly to themselves, must be at least Trump-curious. These grifters are mostly concerned with strutting and posturing - they generally lack any ideology. They "love" Trump because it triggers the "libtards" and makes them advertising revenue.
+What about the non-Trump fans who follow these guys? Anyone who can endure entire hour-long episodes dedicated to lionising Trump, with hosts sporting red MAGA hats and grinning smugly to themselves, must be at least Trump-curious. These grifters are mostly concerned with strutting and posturing - they generally lack any ideology. They "love" Trump because it triggers the "libtards" and makes them advertising revenue.
 
 ## Where to from here?
 
-I've come to accept that I'm not going to be able to convince any local Trump fans to change their minds about the Mango Mussolini, even after he has been turfed out of The White House. Arguing rationally about what amount to religious beliefs is not going to have any effect. If you see someone as the defender of your entire way of life, some sneering crypto-communist on Twitter or Facebook is not going to dissuade you from that belief. 
+I've come to accept that I'm not going to convince any local Trump fans to change their minds about the Mango Mussolini, even after he has been turfed out of The White House. Arguing rationally about what amount to religious beliefs is not going to have any effect. If you see someone as the defender of your entire way of life, some sneering crypto-communist on Twitter or Facebook is not going to dissuade you from that belief. 
 
 I've also tried to develop some compassion for their position - as much as I may disagree with it to the core of my being. As a whining white person, there are few things I detest more than other whining white people. But their experience of suffering and dislocation is real and valid. And there's no way we're ever going to bridge the divide if our opening proposal amounts to "If you'll just stop being an ignorant bigot for a minute then you'll see how much better my ideas are."
 
 If you have Trump fans in your life, try to understand that this is a deeply emotional, irrational and elemental attachment. Trying to argue them out of it is like trying to argue someone into falling in love with you - you're pulling the wrong levers. 
 
-The best we can do is to try to meet them halfway on topics where we might share some common ground. For example I've found that finding ways to combat corruption - both governmental and corporate - is an area where both sides share a lot of ground.
+The best we can do is to try to meet them halfway on topics where we might share some common ground. For example I've found that combatting corruption - both governmental and corporate - is an area where both sides share a lot of ground.
 
 Or we could just leave them be. Trump's star is waning and his influence and prominence will be severely curtailed after the 20th of January. But given that Trump is really a symptom rather than a cause, we should be aware that the rage he has tapped into is not going away any time soon. 
 

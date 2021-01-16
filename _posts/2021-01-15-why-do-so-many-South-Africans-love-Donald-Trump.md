@@ -52,7 +52,7 @@ Like the men and women of the rust belt, Trump was made to feel like a bumpkin -
 
 ## A deep longing for purpose and belonging
 
-Like Americans, South Africans are naturally industrious and entrepreneurial. For several generations white people in both countries were able to climb the economic and social ladders. German and Dutch peasants arrived in the new world became store keepers or farmers. Their children became artisans, and their grandchildren doctors and lawyers. 
+Like Americans, South Africans are naturally industrious and entrepreneurial. For several generations white people in both countries were able to climb the economic and social ladders. German and Dutch peasants arrived in the new world and became store keepers or farmers. Their children became artisans, and their grandchildren doctors and lawyers. 
 
 For many white people in both countries this upward mobility now seems entirely impossible. Locked out of markets and starved of capital by powerful vested interests (mega-corporations, tenderpreneurs, crony capitalists), they are forced to work in jobs that they hate, and burdened with debt they cannot pay off. 
 

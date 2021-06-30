@@ -58,7 +58,7 @@ defaults:
     scope:
       path: ""
     values:
-#      image: "/assets/logo.png" # Default image for sharing
+      image: "/assets/six-steps.png" # Default image for sharing
 
 
 # 7.Site settings
